@@ -1,4 +1,9 @@
 # React Exercise from codeSchool 'WatchUsBuild-React'
+(https://github.com/codeschool/WatchUsBuild-React)
+</br>
+
+1. template from 'powering up with react'
+2. speedup by transpiling through gulp
 
 ------------------
 #### Babel with Gulp
