@@ -3,11 +3,11 @@
 </br>
 
 1. template from 'powering up with react'
-2. speedup by transpiling through gulp
+2. speedup by *transpiling through gulp
+3. *separate component.js into 'components' folder
 
-------------------
 #### Babel with Gulp
-
+-----------
 Starter code for transpiling ES2015 (including modules) with Babel, Gulp and Browserify.
 
 
