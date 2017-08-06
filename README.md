@@ -9,7 +9,12 @@
 [video2]
 4. extract *onDelete* component
 5. refactor the ~bind~ strategy
+including : 
+</br>
+> {...comment} 
+> this._handleDelete = this._handleDelete.bind(this);
 
+</br>
 #### Babel with Gulp
 -----------
 Starter code for transpiling ES2015 (including modules) with Babel, Gulp and Browserify.
