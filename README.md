@@ -1,6 +1,6 @@
 # React Exercise from codeSchool 'WatchUsBuild-React'
-(https://github.com/codeschool/WatchUsBuild-React)
-</br>
+
+![demo](https://github.com/SusanLulu/React-watchUsBuild/raw/master/csreact.gif)
 
 ##### video1
 1. template from 'powering up with react'
@@ -28,7 +28,7 @@ Starter code for transpiling ES2015 (including modules) with Babel, Gulp and Bro
 
 ##### Installing
 
-1. Clone the repo
+1.Clone the repo `git clone https://github.com/codeschool/WatchUsBuild-React `
 2. `npm install -g gulp` to install Gulp globally.
 3. `npm install` to resolve project dependencies.
 

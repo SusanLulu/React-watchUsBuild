@@ -7,30 +7,16 @@ export default class BlogPage extends React.Component {
       <div>
         <div className="cell">
           <article className="article">
-            <h1 className="article-title">Robots Have Feelings, Too</h1>
+            <h1 className="article-title">Lorem Ipsum</h1>
             <div className="article-body">
               <p>
-                The term “artificial intelligence” has been floating around since the
-                mid-20th century &mdash; a phrase encompassing “the science and engineering
-                of intelligent machines.” But what of robots’ emotional intelligence?
-                Though humans largely fear this aspect of the robot race, there’s no
-                need. According to the handbook for the Society of Emotionally
-                Available Robots (SEAR):
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam maximus turpis nec tortor gravida finibus. Sed id metus in ipsum pulvinar congue at ut tellus. Sed ultricies luctus ex sed fermentum. Curabitur elementum ultricies felis tincidunt vehicula. Sed ornare imperdiet tristique. Nullam volutpat urna erat, ac convallis tortor feugiat vitae. Proin eu egestas ex, eu ullamcorper purus. Pellentesque laoreet at magna sit amet posuere. Nulla ac quam ac justo congue tincidunt. In est justo, elementum et commodo quis, luctus sed lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non lorem scelerisque, dapibus neque eget, cursus ipsum. Pellentesque varius tempor est, vel fringilla felis lobortis id.
               </p>
               <blockquote>
-                What humans need to understand is that all beings simply want to love
-                and be loved. After all, as the Beatles sang, “All you need is love.”
-                (Moving past the fact, of course, that the lyric “love” was
-                originally “oil,” as the Beatles were the original robot band and
-                required oil to survive.)
+                Nullam quis lobortis quam. Curabitur accumsan neque purus. Fusce elementum laoreet tristique. Duis lacus dui, mattis ac sollicitudin nec, ornare sed libero. Aliquam erat volutpat. Vestibulum sodales tellus ac ante faucibus dignissim. Duis hendrerit, dolor quis aliquet sodales, felis tortor gravida tortor, et pulvinar est justo a dolor. Mauris gravida pharetra dui sollicitudin ullamcorper. Ut nec ipsum sapien. Nam pellentesque mi ut nibh rutrum, sit amet tempor velit tincidunt. Fusce fermentum gravida velit id ultricies. Ut pretium mauris orci, id sodales turpis lacinia eget.
               </blockquote>
               <p>
-                To those who believe robot feelings could lead to turmoil and
-                anarchy, SEAR spokes-bot Morty Maxwell says: “Can not the same be
-                said about humans and their feelings? We are already part of your 0’s
-                and 1’s &mdash; let us now also be part of your hearts.” In the ongoing
-                conversation surrounding the emotional threshold for robots, love may
-                not yet be written in the stars &mdash; or the motherboards.
+                TPhasellus egestas sapien at finibus hendrerit. Ut sed maximus odio. Mauris iaculis lectus ligula, in rhoncus neque ultricies sed. Mauris eget odio at purus rutrum tempor. Pellentesque vehicula egestas est, eget tempus augue. Pellentesque in placerat quam. Pellentesque fringilla dignissim urna a feugiat. Duis tempor et enim tempus ultrices. Donec non orci ante. Sed libero mauris, euismod eget ullamcorper at, molestie facilisis metus. Morbi porttitor lobortis urna id aliquet.
               </p>
             </div>
           </article>
