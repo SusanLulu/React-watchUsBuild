@@ -2,19 +2,20 @@
 (https://github.com/codeschool/WatchUsBuild-React)
 </br>
 
-[video1]
+{video1}
 1. template from 'powering up with react'
 2. speedup by **transpiling through gulp**
 3. **separate component.js** into 'components' folder
-[video2]
+***
+{video2}
 4. extract **onDelete** component
-5. refactor the *bind** strategy
+5. refactor the **bind** strategy
 including : 
 </br>
->{...comment} 
-</br>
->this._handleDelete = this._handleDelete.bind(this);
-
+``
+{...comment} 
+this._handleDelete = this._handleDelete.bind(this);
+``
 
 #### Babel with Gulp
 -----------
