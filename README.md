@@ -2,11 +2,13 @@
 (https://github.com/codeschool/WatchUsBuild-React)
 </br>
 
+[video1]
 1. template from 'powering up with react'
 2. speedup by *transpiling through gulp*
 3. *separate component.js* into 'components' folder
-4. extract *onDelte* component
-
+[video2]
+4. extract *onDelete* component
+5. refactor the ~bind~ strategy
 
 #### Babel with Gulp
 -----------
