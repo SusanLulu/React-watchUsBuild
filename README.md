@@ -3,8 +3,10 @@
 </br>
 
 1. template from 'powering up with react'
-2. speedup by *transpiling through gulp
-3. *separate component.js into 'components' folder
+2. speedup by *transpiling through gulp*
+3. *separate component.js* into 'components' folder
+4. extract *onDelte* component
+
 
 #### Babel with Gulp
 -----------
