@@ -11,10 +11,12 @@
 4. extract **onDelete** component
 5. refactor the **bind** strategy
 ###### including : 
-``
+`
 {...comment}
-	this._handleDelete = this._handleDelete.bind(this);
-``
+`
+`
+this._handleDelete = this._handleDelete.bind(this);
+`
 
 #### Babel with Gulp
 -----------
