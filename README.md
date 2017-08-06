@@ -13,8 +13,7 @@
 ###### including : 
 ``
 {...comment}
-</br>
-this._handleDelete = this._handleDelete.bind(this);
+	this._handleDelete = this._handleDelete.bind(this);
 ``
 
 #### Babel with Gulp
