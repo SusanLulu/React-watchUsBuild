@@ -29,7 +29,9 @@ Starter code for transpiling ES2015 (including modules) with Babel, Gulp and Bro
 ##### Installing
 
 1.Clone the repo `git clone https://github.com/codeschool/WatchUsBuild-React `
+</br>
 2. `npm install -g gulp` to install Gulp globally.
+</br>
 3. `npm install` to resolve project dependencies.
 
 ##### Using
