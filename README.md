@@ -4,17 +4,18 @@
 
 [video1]
 1. template from 'powering up with react'
-2. speedup by *transpiling through gulp*
-3. *separate component.js* into 'components' folder
+2. speedup by **transpiling through gulp**
+3. **separate component.js** into 'components' folder
 [video2]
-4. extract *onDelete* component
-5. refactor the ~bind~ strategy
+4. extract **onDelete** component
+5. refactor the *bind** strategy
 including : 
 </br>
-> {...comment} 
-> this._handleDelete = this._handleDelete.bind(this);
-
+>{...comment} 
 </br>
+>this._handleDelete = this._handleDelete.bind(this);
+
+
 #### Babel with Gulp
 -----------
 Starter code for transpiling ES2015 (including modules) with Babel, Gulp and Browserify.
